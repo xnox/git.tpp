@@ -623,3 +623,20 @@ $ git log --decorate --graph
   
       Initial commit
 --endshelloutput
+
+--newpage
+Resources for learning:
+
+* git clone https://github.com/xnox/git.tpp.git (this presentation)
+
+* http://git-scm.com/
+
+* $ git --help (works on any command)
+
+* $ git add --help
+
+* stack overflow
+
+* #git@irc.freenode.net
+
+* intel-linux@linux.intel.com
