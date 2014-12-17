@@ -631,6 +631,8 @@ Resources for learning:
 
 * http://git-scm.com/
 
+* git branching model http://nvie.com/posts/a-successful-git-branching-model/
+
 * $ git --help (works on any command)
 
 * $ git add --help
